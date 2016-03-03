@@ -22,3 +22,6 @@
 - Use Service Workers to Cache Application Data
 - Support Native Integration
 - Deploy to a Secure Host and Celebrate!
+
+## Requirements
+- Chrome 47 or above
