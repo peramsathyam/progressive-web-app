@@ -149,7 +149,7 @@
     });
   };
 
-  var fakeForecast = {
+  var initialWeatherForecast = {
     key: 'newyork',
     label: 'New York, NY',
     currently: {
@@ -176,6 +176,6 @@
     }
   };
   // Uncomment the line below to test with the provided fake data
-  app.updateForecastCard(fakeForecast);
+  app.updateForecastCard(initialWeatherForecast);
 
 })();
