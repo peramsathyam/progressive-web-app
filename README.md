@@ -15,10 +15,10 @@
 
 ## Todo
 
-- Architect the App Shell
-- Implement the App Shell
-- Start with a Fast First Load
-- Use Service Workers to Pre-cache the App Shell
+- [x] Architect the App Shell
+- [x] Implement the App Shell
+- [x] Start with a Fast First Load
+- [x] Use Service Workers to Pre-cache the App Shell
 - Use Service Workers to Cache Application Data
 - Support Native Integration
 - Deploy to a Secure Host and Celebrate!
